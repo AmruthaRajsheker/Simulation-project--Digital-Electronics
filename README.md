@@ -36,8 +36,7 @@ Therefore, the Gray code representation of the BCD number 1101 0110 is 1101 0101
 
 
 ## LOGIC DIAGRAM - BCD TO GREY
-![image](https://github.com/AmruthaRajsheker/Simulation-project--Digital-Electronics/assets/119475943/6fb533fe-979a-40bf-87fb-be1de5a2e726)
-
+![BCD1](https://github.com/AmruthaRajsheker/Simulation-project--Digital-Electronics/assets/119475943/d95a9ee8-8f43-423b-a900-28d544d7b93f)
 
 ## PROCEDURE:
 1.Create a project with required entities.
