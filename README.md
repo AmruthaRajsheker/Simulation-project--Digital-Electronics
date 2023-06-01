@@ -76,8 +76,8 @@ endmodule
 
 ## TRUTH TABLE:
 The BCD to gray code conversion table is as follows:
+![TT](https://github.com/AmruthaRajsheker/Simulation-project--Digital-Electronics/assets/119475943/79c2399e-2e4e-40c6-89f3-50b47cd088f1)
 
-![image](https://github.com/AmruthaRajsheker/Simulation-project--Digital-Electronics/assets/119475943/30115574-e7e7-4aa6-aef4-baa2bb924c62)
 
 ## NETLIST DIAGRAM :
 ##### RTL realization:
